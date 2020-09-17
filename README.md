@@ -1,2 +1,2 @@
 # PINNs_RRE
-Physics-informed neural networks for the Richardson-Richards equation
+Physics-informed neural networks (PINNs) for the Richardson-Richards equation (RRE). To test the code, you're required to give the PINNs synthetic soil moisutre data. As examples shown in the paper "Physics-informed neural networks with monotonicity constraints for Richardson-Richards equation: Estimation of constitutive relationships and soil water flux density from volumetric water content measurements by Toshiyuki Bandai and Teamrat A. Ghezzehei", you can download synthetic data used in the paper through Dryad (https://datadryad.org/stash). The DOI for the dataset is doi:10.6071/M3T376.
